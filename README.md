@@ -28,20 +28,24 @@ Predicts median house values in California districts using features such as medi
 
 ### 📸 Data Visualisation
 
-> House Value Distribution ![Screenshot 2025-04-24 191026](https://github.com/user-attachments/assets/bcf35a90-3389-4097-b51b-2ed97f11b5b1)
+> House Value Distribution
+>  ![Screenshot 2025-04-24 191026](https://github.com/user-attachments/assets/bcf35a90-3389-4097-b51b-2ed97f11b5b1)
 
 ---
 
-> Correlation Matrix ![Screenshot 2025-04-24 190710](https://github.com/user-attachments/assets/25133d18-a503-46b5-a804-d206776eb210)
+> Correlation Matrix
+>  ![Screenshot 2025-04-24 190710](https://github.com/user-attachments/assets/25133d18-a503-46b5-a804-d206776eb210)
 
 ---
 
->  Simple Regression Line ![Screenshot 2025-04-24 190904](https://github.com/user-attachments/assets/e4386438-d2dd-43f3-90a3-44da33ab213b)
+>  Simple Regression Line
+>  ![Screenshot 2025-04-24 190904](https://github.com/user-attachments/assets/e4386438-d2dd-43f3-90a3-44da33ab213b)
 
 ---
       
 > Multiple Linear Regression
-  Actual vs Predicted Prices ![Screenshot 2025-04-24 192816](https://github.com/user-attachments/assets/a4b8ca54-4f22-436f-8aa9-2690c14f9cf6)
+  Actual vs Predicted Prices
+>  ![Screenshot 2025-04-24 192816](https://github.com/user-attachments/assets/a4b8ca54-4f22-436f-8aa9-2690c14f9cf6)
 
 ---
 
@@ -63,7 +67,7 @@ Predicts median house values in California districts using features such as medi
 
 
 ---
----
+
 
 
 ## 👥 Part B: Customer Churn Prediction
@@ -79,7 +83,7 @@ Builds a classification model to predict whether a customer will churn using dem
 
 ### 📸Visualisation
 
-!Feature Importance Visualization
+> !Feature Importance Visualization
    ![Screenshot 2025-04-24 193645](https://github.com/user-attachments/assets/0459db94-b86a-4e8f-b887-edf5ca502c80)
 
 ---
@@ -92,6 +96,10 @@ Builds a classification model to predict whether a customer will churn using dem
      Precision: 0.6584
      Recall: 0.4960
      F1 Score: 0.5657
+     
+
+---
+
 
 
 ## ❤️ Part C: Early Disease Detection
@@ -107,7 +115,8 @@ Predicts the likelihood of heart disease based on medical and demographic factor
 
 ### Data Visualisation
 
-!Disease Distribution ![Screenshot 2025-04-24 194207](https://github.com/user-attachments/assets/72589ced-4c51-439d-be92-554fc44cf902)
+> !Disease Distribution
+> ![Screenshot 2025-04-24 194207](https://github.com/user-attachments/assets/72589ced-4c51-439d-be92-554fc44cf902)
 
 
 ### 📈 Performance Metrics
