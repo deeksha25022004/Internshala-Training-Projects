@@ -28,8 +28,9 @@ Predicts median house values in California districts using features such as medi
 
 ### 📸 Data Visualisation
 
-House Value Distribution ![Screenshot 2025-04-24 191026](https://github.com/user-attachments/assets/bcf35a90-3389-4097-b51b-2ed97f11b5b1)
-Correlation Matrix ![Screenshot 2025-04-24 190710](https://github.com/user-attachments/assets/25133d18-a503-46b5-a804-d206776eb210)
+> House Value Distribution ![Screenshot 2025-04-24 191026](https://github.com/user-attachments/assets/bcf35a90-3389-4097-b51b-2ed97f11b5b1)
+
+> Correlation Matrix ![Screenshot 2025-04-24 190710](https://github.com/user-attachments/assets/25133d18-a503-46b5-a804-d206776eb210)
 
 >  Simple Regression Line ![Screenshot 2025-04-24 190904](https://github.com/user-attachments/assets/e4386438-d2dd-43f3-90a3-44da33ab213b)
       
