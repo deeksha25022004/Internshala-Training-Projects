@@ -24,7 +24,7 @@ Predicts median house values in California districts using features such as medi
 - One-Hot Encoding for categorical features
 - Data visualization using Seaborn and Matplotlib
 
-
+---
 
 ### 📸 Data Visualisation
 
@@ -43,10 +43,7 @@ Predicts median house values in California districts using features such as medi
 > Multiple Linear Regression
   Actual vs Predicted Prices ![Screenshot 2025-04-24 192816](https://github.com/user-attachments/assets/a4b8ca54-4f22-436f-8aa9-2690c14f9cf6)
 
-
-
-
-
+---
 
 ### 📈 Performance 
 
@@ -57,13 +54,17 @@ Predicts median house values in California districts using features such as medi
 > Multiple Linear Regression
 - Root Mean Squared Error (RMSE): 70060.52
 - R-Squared (R²): 0.63
+  
+---
 
-> 🔹 Conclusion
+### 🔹 Conclusion
   Multiple Linear Regression model has higher accuracy as compared to Linear Regression
 
 
 
 ---
+---
+
 
 ## 👥 Part B: Customer Churn Prediction
 
